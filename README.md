@@ -66,6 +66,20 @@ Palcon is a CLI tool for interacting with dedicated Palworld servers using the R
 <!-- GETTING STARTED -->
 ## Getting Started
 
+### Using Released Binaries
+I included binaries for both AMD64 and 386 architectures in the
+releases page. I still suggest to install Palcon through `go install`, though.
+
+Installing executables is risky, even on an open source codebase. These executable files exist for convenience.
+
+Most users should download and use the AMD64 release.
+
+- Download released binary from releases page
+    - https://github.com/DavidJS01/palcon/releases
+- After stepping through Microsoft warnings, open a shell (like PowerShell or Command Prompt)
+- Run the executable
+    - `<PATH TO EXECUTABLE> <FLAGS> <COMMAND>`
+
 ### Building From Source
 ```sh
 # install Go https://go.dev/doc/install
@@ -76,7 +90,6 @@ git clone git@github.com:DavidJS01/palcon.git
 # build executable
 go build -o palcon.exe
 ```
-
 
 ### Installation with Go Install
 
