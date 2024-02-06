@@ -135,7 +135,7 @@ palcon
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Add file based configuration for default host, port, and password
+- Add file based configuration for default host, port, and password
 
 See the [open issues](https://github.com/DavidJS01/palcon/issues) for a full list of proposed features and known issues.
 
