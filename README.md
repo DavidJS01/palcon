@@ -30,8 +30,13 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#using-released-binaries">Using Released Executable</a></li>
+        <li><a href="#building-from-source">Building From Source</a></li>
+        <li><a href="#installation-with-go-install">Installing with Go</a></li>
+            <ul>
+                <li><a href="#install-from-github-recommended"> From Github </li>
+                <li><a href="#install-local-project"> From Cloned Project </li>
+            </ul>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -39,7 +44,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
